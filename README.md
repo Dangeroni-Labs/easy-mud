@@ -18,7 +18,7 @@ Nevertheless, it will be available for downloading and I'll be supporting it. Fu
 
 ## Downloads
 - [GiHub Releases](https://github.com/Dangeroni-Labs/easy-mud/releases)
-- [CurseForge]()
+- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/easy-mud)
 
 ## Website
 
