@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DDD",
+    "DWD",
+    "DDD"
+  ],
+  "key": {
+    "D": {
+      "tag": "easy_mud:mud_convertible"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "minecraft:mud",
+    "count": 8
+  }
+}
