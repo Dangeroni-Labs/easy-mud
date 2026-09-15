@@ -14,7 +14,7 @@ I am not planning to add support for other versions or mod loaders rather than *
 
 Intentions of this mod were only for myself since I am playing forge 1.20.1 minecraft now.
 
-Nevertheless, it will be available for downloading and I'll be supporting it. Futhermore, maybe I'll add support for other versions and mod loaders.
+Nevertheless, it will be available for downloading and I'll be supporting it.
 
 ## Downloads
 - [GiHub Releases](https://github.com/Dangeroni-Labs/easy-mud/releases)
